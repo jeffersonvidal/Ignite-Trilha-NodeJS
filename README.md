@@ -1,32 +1,32 @@
 <h1 align="center">
-<img src="https://github.com/jeffersonvidal/Ignite-FundamentosNodeJS.git/blob/main/screens/logoBootcamp.png?raw=true">
+<img src="https://github.com/jeffersonvidal/Ignite-Trilha-NodeJS.git/blob/main/imgs/coverIgniteNodeJS.png?raw=true">
 </h1>
 
 <h2 align="center"> Curso Ignite da Rocketseat - Trilha NodeJS</h2>
 
 <p align="center">
-  Repositório com conteúdo ministrado no curso Ignite, da Rocketseat.
+  Repositório com conteúdo ministrado na Trilha NodeJS do curso Ignite, da Rocketseat.
 </p>
 
 <p align="center">
-  <img alt="Languagues" src="https://img.shields.io/github/languages/count/jeffersonvidal/Ignite-FundamentosNodeJS.git">
-  <img alt="Top Languague" src="https://img.shields.io/github/languages/top/jeffersonvidal/Ignite-FundamentosNodeJS.git">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jeffersonvidal/Ignite-FundamentosNodeJS.git">
+  <img alt="Languagues" src="https://img.shields.io/github/languages/count/jeffersonvidal/Ignite-Trilha-NodeJS.git">
+  <img alt="Top Languague" src="https://img.shields.io/github/languages/top/jeffersonvidal/Ignite-Trilha-NodeJS.git">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/jeffersonvidal/Ignite-Trilha-NodeJS.git">
   <a href="https://github.com/jeffersonvidal/foodfy/commits/master">
-    <img alt="Last commit date" src="https://img.shields.io/github/last-commit/jeffersonvidal/Ignite-FundamentosNodeJS.git">
+    <img alt="Last commit date" src="https://img.shields.io/github/last-commit/jeffersonvidal/Ignite-Trilha-NodeJS.git">
   </a>
-  <a href="https://github.com/jeffersonvidal/Ignite-FundamentosNodeJS.git" target="_blank">
-    <img alt="GitHub license" src="https://img.shields.io/github/license/jeffersonvidal/Ignite-FundamentosNodeJS.git">
+  <a href="https://github.com/jeffersonvidal/Ignite-Trilha-NodeJS.git" target="_blank">
+    <img alt="GitHub license" src="https://img.shields.io/github/license/jeffersonvidal/Ignite-Trilha-NodeJS.git">
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/jeffersonvidal/Ignite-FundamentosNodeJS.git/issues" target="_blank">
-    <img alt="GitHub issues" src="https://img.shields.io/github/issues/jeffersonvidal/Ignite-FundamentosNodeJS.git"></a>
-  <a href="https://github.com/jeffersonvidal/Ignite-FundamentosNodeJS.git/network" target="_blank">
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/jeffersonvidal/Ignite-FundamentosNodeJS.git">
+  <a href="https://github.com/jeffersonvidal/Ignite-Trilha-NodeJS.git/issues" target="_blank">
+    <img alt="GitHub issues" src="https://img.shields.io/github/issues/jeffersonvidal/Ignite-Trilha-NodeJS.git"></a>
+  <a href="https://github.com/jeffersonvidal/Ignite-Trilha-NodeJS.git/network" target="_blank">
+    <img alt="GitHub forks" src="https://img.shields.io/github/forks/jeffersonvidal/Ignite-Trilha-NodeJS.git">
   </a>
-  <a href="https://github.com/jeffersonvidal/Ignite-FundamentosNodeJS.git/stargazers" target="_blank">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/jeffersonvidal/Ignite-FundamentosNodeJS.git">
+  <a href="https://github.com/jeffersonvidal/Ignite-Trilha-NodeJS.git/stargazers" target="_blank">
+    <img alt="GitHub stars" src="https://img.shields.io/github/stars/jeffersonvidal/Ignite-Trilha-NodeJS.git">
   </a>
   <a href="https://github.com/jeffersonvidal" target="_blank">
     <img alt="Made by Jefferson Vidal" src="https://img.shields.io/badge/made%20by-jeffersonvidal-informational">
