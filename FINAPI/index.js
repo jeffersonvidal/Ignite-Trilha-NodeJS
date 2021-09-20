@@ -11,14 +11,19 @@ const customers = [];
 /** Criar uma conta */
 app.post("/account", (request, response) => {
   const { cpf, name } = request.body;
+  const customerAlreadyExists = customers.some(
+    (customer => customer.cpf === cpf)
+  );
 
-  const id = uuidv4();
+  if(customerAlreadyExists){
+    return response.status(400).json({error: "Customer already exists!"});
+  }
 
   /** Object add a new customer in array */
   customers.push({
     cpf,
     name,
-    id,
+    id: uuidv4(),
     statement: []
   });
 

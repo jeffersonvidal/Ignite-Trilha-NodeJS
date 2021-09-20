@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://github.com/jeffersonvidal/Ignite-Trilha-NodeJS.git/blob/main/imgs/coverIgniteNodeJS.png?raw=true">
+<img src="https://github.com/jeffersonvidal/Ignite-Trilha-NodeJS/blob/main/imgs/coverIgniteNodeJS.png" width="100%">
 </h1>
 
 <h2 align="center"> Curso Ignite da Rocketseat - Trilha NodeJS</h2>
